@@ -6,4 +6,4 @@ If you want to know how to set up the Testing Beta, follow the instructions.
 2. Download The Beta Files(Fnaf EC Beta.exe, + Files That Get Downloaded).
 3. Place the files from the update somewhere in the folder with the Engine.
 4. Boot Up The Beta and enjoy.
-If you want to know more, we are gonna build a wiki here soon.
+If you want to know more, we will let you know that this README.md is a WIP.
